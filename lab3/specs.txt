@@ -1,0 +1,12 @@
+
+CPU Info:
+MaxClockSpeed=3400
+Name=AMD Ryzen 5 2600 Six-Core Processor            
+NumberOfCores=6
+
+Memory Info:
+Total Memory: 16.00 GB
+
+OS Info:
+Caption=Microsoft Windows 11 Pro
+            
