@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  vue-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:80"
+    container_name: vue-app-container
+    restart: always
+    volumes:
+      - /c/Users/anilf/logs:/app/logs
